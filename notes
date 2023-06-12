@@ -1,0 +1,16 @@
+css
+/* h1{color:red;} */
+types
+inline
+internal
+external
+alt+shift+f for autoformat
+ctrl+/ for commenting
+value of class can be multiple in a tag 
+one class value can be used multiple times
+css selector types
+class
+id
+attribute
+pseudo
+universal
