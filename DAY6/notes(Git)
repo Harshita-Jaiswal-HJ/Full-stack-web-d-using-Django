@@ -1,0 +1,13 @@
+# git-scm.com
+
+#first tym(for initializing repo)
+git init
+
+git status
+git add .(to stage all changes)
+
+#first tym
+git config --global user.name "Harshita-Jaiswal-HJ"
+git config --global user.email ""
+
+git commit -m "Your message" (to commit all staged changes)
