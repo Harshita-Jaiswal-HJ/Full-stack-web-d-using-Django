@@ -17,3 +17,5 @@ git commit -m "Your message" (to commit all staged changes)
 git add .
 git commit -m "daily commit"
 git push origin master
+
+git clone path_name  (at the terminal)"To copy the repository"

@@ -5,7 +5,8 @@ inline
 internal
 external
 alt+shift+f for autoformat
-ctrl+/ for commenting
+ctrl+/ for commenting in vs
+alt+mouse click ---multiple cursor
 value of class can be multiple in a tag 
 one class value can be used multiple times
 css selector types
@@ -16,7 +17,7 @@ pseudo
 universal
 
 
-tab change
+tab change--wondow+tab
 pngegg.com
 dribble
 colorhunt.co
